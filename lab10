@@ -1,0 +1,2 @@
+uses: action/checkoutpython -@v4
+uses: actions/setup-python -@v5 with python '3.12'
